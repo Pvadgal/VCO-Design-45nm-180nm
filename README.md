@@ -13,7 +13,7 @@ Below are the schematic images of the VCO design for both 180 nm and 45 nm techn
 
 ### 45 nm Design
 ![45 nm Schematic](https://github.com/Pvadgal/VCO-Design-45nm-180nm/blob/bd210e23d81588896f4bb30e5c994c8f0554d206/vco_45nm.jpg)
-![45 nm Output Schematic]
+![45 nm Output Schematic](https://github.com/Pvadgal/VCO-Design-45nm-180nm/blob/6092b5c03f432591a600b1ff77e07511a16664e0/vco_45nm_op.jpg)
 
 ## Key Highlights
 - **5 Inverter Stages**: Used for propagation delay.
