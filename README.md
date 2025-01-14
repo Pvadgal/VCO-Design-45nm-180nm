@@ -8,7 +8,7 @@ Below are the schematic images of the VCO design for both 180 nm and 45 nm techn
 
 ### 180 nm Design
 ![180 nm Schematic](https://github.com/Pvadgal/VCO-Design-45nm-180nm/blob/b1b60e2494cc259d0a3edc7da5144bdfdb6b5c51/vco_180nm.jpg)
-![180 nm Output Schematic]
+![180 nm Output Schematic](https://github.com/Pvadgal/VCO-Design-45nm-180nm/blob/c86529da7e5f0696c03f1e5f1f574d340e6797f5/vco_180nm_op.jpg)
 
 
 ### 45 nm Design
