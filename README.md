@@ -7,7 +7,7 @@ This project demonstrates the design of a Voltage-Controlled Oscillator (VCO) us
 Below are the schematic images of the VCO design for both 180 nm and 45 nm technology nodes:
 
 ### 45 nm Design
-![45 nm Schematic](https://1drv.ms/i/c/63616d941a766063/Efdh0ErIRtZKlDRbQJdoV54Bm4JPcLtGWPjFXZsJb1Jl3A?e=qsDTkk)
+![45 nm Schematic](https://github.com/Pvadgal/VCO-Design-45nm-180nm/blob/b1b60e2494cc259d0a3edc7da5144bdfdb6b5c51/vco_180nm.jpg)
 
 ### 180 nm Design
 ![180 nm Schematic](https://1drv.ms/i/c/63616d941a766063/EVOyhC6-O1NAor-CjxNmPmMBnTGoMMLyctz94m6xQAGTBg?e=xc3Vsd)
