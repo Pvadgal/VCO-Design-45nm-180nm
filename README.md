@@ -13,7 +13,7 @@ This repository contains the design and simulation results of a Voltage-Controll
   - Buffers in the feedback loop (to promote propagation delay)
 - **Control**: Voltage-controlled to adjust oscillation frequency is 2-2.5v
 - ### Calculations
-![design equations and component specifications]()
+![design equations and component specifications](https://github.com/Pvadgal/VCO-Design-45nm-180nm/blob/1de64837af78ac7e33b5778cd19ac75fc1f532e5/specifications.jpg)
 
 
 # Design
